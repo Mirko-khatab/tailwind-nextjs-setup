@@ -15,8 +15,8 @@
   "devDependencies": {
     "@types/node": "^16.11.6",
     "@types/react": "^17.0.34",
-    "autoprefixer": "^10.4.0",
-    "postcss": "^8.3.11",
+    "autoprefixer": "^10.4.12",
+    "postcss": "^8.4.17",
     "postcss-import": "^14.0.2",
     "tailwindcss": "^2.2.19",
     "typescript": "^4.4.4"
